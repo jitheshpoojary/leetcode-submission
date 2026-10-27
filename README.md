@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2409-count-days-spent-together](https://github.com/jitheshpoojary/leetcode-submission/tree/master/2409-count-days-spent-together) |
 ## Depth-First Search
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Hash Table
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1015-smallest-integer-divisible-by-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
