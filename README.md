@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0183-customers-who-never-order](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0183-customers-who-never-order) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [1667-fix-names-in-a-table](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1873-calculate-special-bonus) |
 ## Divide and Conquer
