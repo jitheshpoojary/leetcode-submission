@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0183-customers-who-never-order) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1667-fix-names-in-a-table) |
