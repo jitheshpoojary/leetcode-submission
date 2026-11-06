@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0183-customers-who-never-order) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1280-students-and-examinations](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1280-students-and-examinations) |
