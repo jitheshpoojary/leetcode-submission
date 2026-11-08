@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0585-investments-in-2016](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0626-exchange-seats](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0626-exchange-seats) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1280-students-and-examinations](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
