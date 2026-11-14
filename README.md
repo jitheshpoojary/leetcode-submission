@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0018-4sum) |
 | [1254-number-of-closed-islands](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1254-number-of-closed-islands) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -115,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
