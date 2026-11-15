@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0067-add-binary) |
 | [2409-count-days-spent-together](https://github.com/jitheshpoojary/leetcode-submission/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -23,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0067-add-binary) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0067-add-binary) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2409-count-days-spent-together](https://github.com/jitheshpoojary/leetcode-submission/tree/master/2409-count-days-spent-together) |
 ## Depth-First Search
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0018-4sum) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
