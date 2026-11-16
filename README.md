@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0067-add-binary) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jitheshpoojary/leetcode-submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/jitheshpoojary/leetcode-submission/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -131,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0067-add-binary) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jitheshpoojary/leetcode-submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
