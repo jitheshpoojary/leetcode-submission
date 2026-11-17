@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0067-add-binary) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/jitheshpoojary/leetcode-submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/jitheshpoojary/leetcode-submission/tree/master/2409-count-days-spent-together) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0067-add-binary) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2409-count-days-spent-together](https://github.com/jitheshpoojary/leetcode-submission/tree/master/2409-count-days-spent-together) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0013-roman-to-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Pigeonhole Principle
 |  |
