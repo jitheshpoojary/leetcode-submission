@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0018-4sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1254-number-of-closed-islands](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1254-number-of-closed-islands) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0018-4sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0067-add-binary) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/jitheshpoojary/leetcode-submission/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
