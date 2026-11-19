@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0018-4sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1254-number-of-closed-islands](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1254-number-of-closed-islands) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3665-twisted-mirror-path-count](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Database
