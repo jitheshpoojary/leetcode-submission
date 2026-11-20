@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0626-exchange-seats) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1164-product-price-at-a-given-date](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1164-product-price-at-a-given-date) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1280-students-and-examinations](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
