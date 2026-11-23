@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0018-4sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
@@ -144,5 +146,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
