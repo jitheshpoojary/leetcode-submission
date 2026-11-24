@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1254-number-of-closed-islands](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1254-number-of-closed-islands) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3665-twisted-mirror-path-count) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0067-add-binary) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/jitheshpoojary/leetcode-submission/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2409-count-days-spent-together](https://github.com/jitheshpoojary/leetcode-submission/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -148,4 +150,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jitheshpoojary/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jitheshpoojary/leetcode-submission/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
